@@ -1,6 +1,3 @@
-**Tech Content Writing Portfolio**
-This repository showcases professional samples of my technical writing and content creation spanning blockchain, web3, cultural heritage digitization, and more.  
-
 **Featured Projects:**
 
 **MozartCultures Platform Documentation**
